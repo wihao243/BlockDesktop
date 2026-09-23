@@ -1,0 +1,4 @@
+# Dependencias de BlockDesktop
+# psutil: gestión de procesos (buscar, listar y terminar aplicaciones).
+# Tkinter (interfaz) viene incluido con Python en Windows.
+psutil>=5.9.0
